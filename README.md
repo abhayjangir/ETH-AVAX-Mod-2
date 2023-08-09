@@ -55,12 +55,14 @@ This React application demonstrates wallet interactions with a smart contract on
    npm install
    # or
    yarn install
-Features
+
+## Features
 Connect your MetaMask wallet to the application.
 View your account details and current balance.
 Deposit funds (16 ETH) into the smart contract.
 Withdraw funds (16 ETH) from the smart contract.
-How to Use
+
+## How to Use
 Install the MetaMask extension in your browser if not already installed.
 
 Launch the application and click the "CONNECT TO THE METAMASK" button to connect your wallet.
@@ -71,12 +73,12 @@ Use the "Deposit 16 ETH" button to deposit 16 ETH into the smart contract.
 
 Use the "Withdraw 16 ETH" button to withdraw 16 ETH from the smart contract.
 
-Notes
+## Notes
 This application interacts with a specific smart contract deployed at the contract address 0x5FbDB2315678afecb367f032d93F642f64180aa3. Ensure that the contract is deployed and accessible on the Ethereum network you are connected to.
 
 Make sure your MetaMask wallet is connected to the correct network (e.g., Ropsten, Rinkeby, or Ethereum Mainnet) to interact with the deployed contract.
 
-Disclaimer
+## Disclaimer
 This application is for educational purposes and serves as an example of wallet interaction with Ethereum smart contracts.
 
 Ensure that you understand the risks associated with using Ethereum and interacting with smart contracts.
